@@ -12,6 +12,3 @@
 8. sort (list of integers)
 9. char_frequency (count occurence of characters in string)
 10. valid_parentheses (validate parentheses of string)
-
-
-
