@@ -1,5 +1,6 @@
 
 // get odds from list of integers
+
 var nums = process.argv.slice(2).map(function(argItem) {
     return parseInt(argItem);
 });
