@@ -1,5 +1,5 @@
 
-// given a base and exponent, calculate the power via recursion
+// given a base and exponent, calculate the power recursively
 
 var base = parseFloat(process.argv[2]);
 var exponent = parseFloat(process.argv[3]);

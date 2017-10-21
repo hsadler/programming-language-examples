@@ -1,5 +1,5 @@
 
-# given a base and exponent, calculate the power via recursion
+# given a base and exponent, calculate the power recursively
 
 import sys
 
