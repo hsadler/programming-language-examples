@@ -9,4 +9,4 @@ var odds = nums.filter(function(num) {
     return num % 2 === 1 || num % 2 === -1;
 });
 
-console.log(odds);
+console.log(odds.join(' '));
