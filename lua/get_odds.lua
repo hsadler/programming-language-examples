@@ -9,8 +9,4 @@ for k, v in pairs(arg) do
 	end
 end
 
-for k, v in pairs(odds) do
-	io.write(v .. ' ')
-end
-
-io.write('\n')
+io.write(table.concat(odds, ' ') .. '\n')
