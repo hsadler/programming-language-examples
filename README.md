@@ -12,3 +12,11 @@
 8. sort (list of integers)
 9. char_frequency (count occurence of characters in string)
 10. valid_parentheses (validate parentheses of string)
+
+### languages:
+1. python
+2. ruby
+3. nodejs
+4. PHP
+5. lua
+
